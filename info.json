@@ -1,10 +1,10 @@
 {
-    "name": "Command_and_Conquer_Low_Power_Alerts-016",
-    "version": "0.18.0",
-    "title": "C&C Low Power Alerts",
-    "author": "Jewel724/8ZN",
-    "description": "Adds in three selectable sounds from Tiberian Sun, Red Alert and the older Command and Conquer titles to play with programmable speakers when your power supply cannot keep up with demands or shuts down. This was originally Jewel724's mod! I'm simply patched it to version 0.16 of Factorio, texts are corrected and de added.",
-	"homepage": "https://mods.factorio.com/mods/8ZN/Command_and_Conquer_Low_Power_Alerts-016",
-    "factorio_version": "0.18",
-    "dependencies": ["base >= 0.18.0"]
+  "name": "Command_and_Conquer_Low_Power_Alerts-116",
+  "version": "1.1.6",
+  "title": "C&C Low Power Alerts",
+  "author": "Jewel724/8ZN/Sil3ntSt0rm",
+  "description": "Adds in three selectable sounds from Tiberian Sun, Red Alert and the older Command and Conquer titles to play with programmable speakers when your power supply cannot keep up with demands or shuts down. This was originally Jewel724's mod! Factorio 0.16-0.18 by 8ZN. Factorio 1.1 support by Sil3ntStorm",
+  "homepage": "https://github.com/Sil3ntStorm/cnc-low-power-alert",
+  "factorio_version": "1.1",
+  "dependencies": [ "base >= 1.1.6" ]
 }
