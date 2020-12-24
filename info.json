@@ -1,0 +1,10 @@
+{
+    "name": "Command_and_Conquer_Low_Power_Alerts",
+    "version": "0.15.0",
+    "title": "C&C Low Power Alert",
+    "author": "Jewel724",
+    "contact": "dbrinson115@email.com",
+    "factorio_version": "0.15",
+    "dependencies": ["base >= 0.15"],
+    "description": "Adds in three selectable sounds from Tiberian Sun, Red Alert and the older Command and Conquer titles to play with progammable speakers when your power supply cannot keep up with demands or shuts down."
+}
